@@ -6,7 +6,7 @@ import os
 path = kagglehub.dataset_download("rodsaldanha/arketing-campaign")
 
 # Define your project data folder
-local_path = "data/raw/marketing-campaign"
+local_path = "raw/marketing-campaign"
 
 # Create it if needed
 os.makedirs(local_path, exist_ok=True)

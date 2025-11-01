@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ba6cea2-403e-41e1-8e04-378fa8b50d99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Marketing Campaign Predictor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs/env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs/settings.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/marketing-campaign/marketing_campaign.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/marketing-campaign/marketing_campaign.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/start.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Marketing_Campaign_Predictor_Requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Marketing_Campaign_Project_Structure.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/documentation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/Feature_Engineering.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/Model_Training.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_end_to_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_ml_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +49,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/data/raw" />
     </key>
