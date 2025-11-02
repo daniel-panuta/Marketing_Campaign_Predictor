@@ -1,2 +1,10 @@
 .env
 .venv/
+.idea/
+__pycache__/
+docs/advanced_analysis
+docs/eda
+logs/
+models/
+notebooks/
+data/

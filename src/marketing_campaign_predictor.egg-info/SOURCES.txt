@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+configs/requirements.txt
+src/marketing_campaign_predictor.egg-info/PKG-INFO
+src/marketing_campaign_predictor.egg-info/SOURCES.txt
+src/marketing_campaign_predictor.egg-info/dependency_links.txt
+src/marketing_campaign_predictor.egg-info/requires.txt
+src/marketing_campaign_predictor.egg-info/top_level.txt
+src/utils/logger.py
+tests/test_EDA.py
+tests/test_api.py
+tests/test_end_to_end.py
+tests/test_ml_core.py
